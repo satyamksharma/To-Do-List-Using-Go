@@ -18,3 +18,5 @@ vendor/
 /bin/
 
 *.out
+
+.log
